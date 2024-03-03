@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by ZverikRS on 03.03.2024.
+  
+*/
+
+"hello" = "Привет";
+"dev" = "Разработчик";
+"name" = "Зверик Роман";
+"description.firstLine" = "Это тестовый проект по локализации";
+"description.secondLine" = "Мне очень нравится программировать, создавать новое, абстрагироваться и воплощать новые идеи в жизнь!";
+"localized" = "Русский";
+"baseLocalized" = "Системный";

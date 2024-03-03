@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by ZverikRS on 03.03.2024.
+  
+*/
+
+"hello" = "Selam";
+"dev" = "Geliştirici";
+"name" = "Hayvan Romanı";
+"description.firstLine" = "Bu bir test projesidir yerelleştirme";
+"description.secondLine" = "Programlamayı, yenilerini yaratmayı, soyutlamayı ve yeni fikirleri hayata geçirmeyi gerçekten seviyorum!";
+"localized" = "Türk";
+"baseLocalized" = "Sistemli";

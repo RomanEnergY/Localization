@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by ZverikRS on 03.03.2024.
+  
+*/
+
+"hello" = "Hello";
+"dev" = "Developer";
+"name" = "Zverik Roman";
+"description.firstLine" = "This is a localization test project";
+"description.secondLine" = "I really like programming, creating new things, abstracting and bringing new ideas to life!";
+"localized" = "English";
+"baseLocalized" = "System";
